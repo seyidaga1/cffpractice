@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\MiniProject\\MiniProject\\MiniProject.csproj": {}
+    "C:\\Users\\seyid\\OneDrive\\Desktop\\cffpractice\\MiniProject\\MiniProject\\MiniProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\MiniProject\\MiniProject\\MiniProject.csproj": {
+    "C:\\Users\\seyid\\OneDrive\\Desktop\\cffpractice\\MiniProject\\MiniProject\\MiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\MiniProject\\MiniProject\\MiniProject.csproj",
+        "projectUniqueName": "C:\\Users\\seyid\\OneDrive\\Desktop\\cffpractice\\MiniProject\\MiniProject\\MiniProject.csproj",
         "projectName": "MiniProject",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\MiniProject\\MiniProject\\MiniProject.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\MiniProject\\MiniProject\\obj\\",
+        "projectPath": "C:\\Users\\seyid\\OneDrive\\Desktop\\cffpractice\\MiniProject\\MiniProject\\MiniProject.csproj",
+        "packagesPath": "C:\\Users\\seyid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seyid\\OneDrive\\Desktop\\cffpractice\\MiniProject\\MiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\seyid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,18 +44,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -66,12 +60,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
