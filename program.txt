@@ -1,10 +1,17 @@
 12345678
 12345
 new text
+
+text new
+new
+
 future branch changed
 
 text new
 
 new text added
 
+
 djgldls
+
+
