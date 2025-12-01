@@ -1,4 +1,6 @@
 12345678
 12345
 new text
+future branch changed
+
 text new
